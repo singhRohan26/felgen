@@ -1,0 +1,3047 @@
+@media(max-width:1199px) {
+
+    .footmiddle ul {
+
+        padding-right: 40px;
+
+    }
+
+
+
+    .footleft p {
+
+        padding-right: 40px;
+
+    }
+
+
+
+    .footerbtm {
+
+        padding: 15px 16px;
+
+    }
+
+
+
+
+
+    .cardimg a.slikocusto1{
+
+        height: 165px;
+
+        position: relative;
+
+    }
+
+
+
+    .cardtext {
+
+        padding: 10px 7px 7px 6px;
+
+    }
+
+
+
+    .cardlisto1 {
+
+        margin-right: 22px;
+
+    }
+
+
+
+    .pop_btn a {
+
+        padding: 11px 52px;
+
+    }
+
+
+
+    /*    .product_drop {
+
+        padding: 0px 140px;
+
+    }
+
+*/
+
+    .avatar-upload {
+
+
+
+        margin: 58px 25px 15px;
+
+    }
+
+
+
+    .avatar-upload.post_img {
+
+        /*margin: initial;*/
+
+    }
+
+
+
+    .my_profile {
+
+        padding: 40px 0px 85px;
+
+    }
+
+
+
+    .contact_inner h2 {
+
+        padding: 0px 0px 15px;
+
+    }
+
+
+
+    .contact {
+
+        padding: 30px 0px 85px;
+
+    }
+
+
+
+    .contact_uss {
+
+        padding-right: 40px;
+
+    }
+
+
+
+    .contact_uss {
+
+        padding-right: 0px;
+
+    }
+
+
+
+    .contact_inner {
+
+        padding: 0 30px;
+
+        position: relative;
+
+    }
+
+
+
+    .payment_mode {
+
+        padding: 50px 0px;
+
+    }
+
+
+
+
+
+
+
+    .pay_inner h2 {
+
+        font-size: 28px;
+
+        line-height: 30px;
+
+    }
+
+
+
+    .payment_mode .account h4 {
+
+        font-size: 24px;
+
+        line-height: 22px;
+
+    }
+
+
+
+    .account {
+
+        padding: 25px 0px 20px;
+
+    }
+
+
+
+    .pay_inner .form-group {
+
+        padding-bottom: 15px;
+
+    }
+
+
+
+    .contact_uss {
+
+        height: auto;
+
+    }
+
+
+
+    .login_inner {
+
+        height: auto;
+
+    }
+
+
+
+    .pay_inner .already_acc {
+
+        padding-top: 20px;
+
+    }
+
+
+
+    .forget_inner {
+
+        height: auto;
+
+    }
+
+
+
+    .for_pass {
+
+        padding: 93px 0px 86px;
+
+    }
+
+
+
+    /*.post_filter {
+
+    margin-right: 35px;
+
+}*/
+
+    .post_filter {
+
+        margin-right: 35px;
+
+    }
+
+
+
+    .post_last {
+
+        margin-right: 0px;
+
+    }
+
+
+
+    .msgtextarea .input-group-text {
+
+        height: 38px;
+
+    }
+
+
+
+    /*depu*/
+
+    /*    web location start*/
+
+    .location_full {
+
+        margin: 50px 0px;
+
+    }
+
+
+
+    .location_inner span {
+
+        margin: 0px -5px;
+
+
+
+    }
+
+
+
+    .web_city ul li {
+
+        margin-right: 40px;
+
+        margin-bottom: 30px;
+
+    }
+
+
+
+    .slickarea {
+
+        padding: 20px 15px 150px;
+
+    }
+
+
+
+    .slickarea .slick-slide {
+
+        margin: 15px 20px 15px 0;
+
+    }
+
+
+
+    .Basicpro {
+
+        padding-top: 15px;
+
+    }
+
+
+
+    .slickarea {
+
+        padding: 20px 15px 75px;
+
+    }
+
+
+
+    .cardimg1 a{
+
+        width: 200px;
+
+        height: 220px;
+
+    }
+
+
+
+    .cardlisto {
+
+        width: 23%;
+
+    }
+
+
+
+    .pop_filter .dropdown {
+
+        width: 154px;
+
+    }
+
+
+
+    .pop_filter .dropdown.bank_drop {
+
+        width: 100%;
+
+    }
+
+
+
+    .cardall {
+
+        text-align: left;
+
+    }
+
+
+
+    .productlist {
+
+        text-align: center;
+
+    }
+
+
+
+    .cardbod_custom p {
+
+        text-align: initial;
+
+    }
+
+
+
+    .pop_filter .dropdown .select {
+
+        cursor: pointer;
+
+        display: block;
+
+        padding: 5px 8px;
+
+        text-align: initial;
+
+    }
+
+
+
+    .pop_filter .dropdown .select a {
+
+        padding-right: 10px;
+
+    }
+
+    .pop_filter.post_filter .dropdown .select a {
+
+    padding-right: 0px;
+
+}
+
+
+
+    .pop_inner ul li {
+
+
+
+        margin-right: 8px;
+
+    }
+
+
+
+    .product_drop {
+
+        text-align: center;
+
+    }
+
+
+
+    .popular_pro {
+
+        padding: 0px 0px 30px 10px;
+
+    }
+
+
+
+    .pop_btn a {
+
+        padding: 11px 38px;
+
+        font-size: 16px;
+
+    }
+
+
+
+    .pop_inner h2 {
+
+        padding: 35px 0px;
+
+    }
+
+
+
+    .header .navbar .popular_pro_drop {
+
+        display: none;
+
+        padding: 0 0px 50px 0px;
+
+    }
+
+
+
+    .productlist.publish_inner {
+
+        padding: 0px;
+
+    }
+
+
+
+    .all_rims {
+
+        padding-left: 0px;
+
+    }
+
+
+
+    .pop_filter .bank_drop .select {
+
+        padding: 5px 0px;
+
+    }
+
+
+
+    .publ_left {
+
+        height: 145px;
+
+        width: 145px;
+
+      margin:0 auto 10px;
+
+    }
+
+
+
+    .pub_l_all {
+
+
+
+        padding-left: 0px;
+
+    }
+
+
+
+    .publish_inner12 .cardimg1 {
+
+
+
+        width: 180px;
+
+        height: 195px;
+
+    }
+
+
+
+    .publish_inner12 .cardlisto {
+
+        width: 182px;
+
+        margin-right: 6px;
+
+        margin-bottom: 17px;
+
+    }
+
+
+
+    .pay_btn1 {
+
+        padding-bottom: 20px;
+
+    }
+
+    .dom{
+
+        padding-top: 20px;
+
+    }
+
+       /*03-12*/
+
+        .footleft {
+
+    width: 25%;
+
+}
+
+.footmiddle {
+
+    width: 50%;
+
+    text-align: center;
+
+}
+
+.modal .modal-content {
+
+    padding: 96px 30px 45px;
+
+}
+
+.modalyimg {
+
+    width: 171px;
+
+    height: 171px;
+
+}
+
+.modaly h3 {
+
+    font-size: 30px;
+
+    line-height: 33px;
+
+}
+
+.modaly p {
+
+    padding-bottom: 16px;
+
+}
+
+.modaly h4 {
+
+    font-size: 24px;
+
+    line-height: 27px;
+
+    padding-bottom: 22px;
+
+}
+
+.modal .modal-content1 {
+
+    padding: 35px 58px 45px 74px;
+
+}
+
+.modaly1 p {
+
+    padding-bottom: 10px;
+
+}
+
+.modal-dialog2 .modal-content2 {
+
+    padding: 50px 30px 30px 30px;
+
+}
+
+.modal-dialog.modal-dialog2 {
+
+    width: 475px;
+
+}
+
+.msgtextarea.msgtextarea2 input {
+
+    width: 88%;
+
+}
+.filter_header .post_filter{
+    width: 149px;
+        margin-right: 8px;
+}
+.pop0_btn button {
+    padding: 9px 47px;
+}
+
+
+.publish_inner .col-md-2{
+min-width:100%;	
+}
+.publish_inner {
+    padding: 40px 0px 180px;
+}
+.Pub_right_all {
+	text-align:center;
+}
+.anchorcard {
+    margin-right: 30px;
+}
+.subpaypal{
+    padding:0 15%;
+}
+}
+
+@media(max-width:991px) {
+
+
+
+    .navbar-expand-sm .navbar-nav .nav-link {
+
+        margin: 0px 12px;
+
+    }
+
+
+
+    .unionclick a.chtdot:before {
+
+        left: 23px;
+
+    }
+
+
+
+    .footmiddle ul {
+
+        padding-right: 10px;
+
+    }
+
+
+
+/*    .footleft p {
+
+        padding-right: 8px;
+
+    }
+
+*/
+
+
+
+    .footright {
+
+        padding-left: 8px;
+
+    }
+
+
+
+    .banrtext h3 {
+
+        font-size: 27px;
+
+        line-height: 38px;
+
+    }
+
+
+
+    .bannerarea {
+
+        padding: 130px 0;
+
+    }
+
+
+
+    .allbtn a {
+
+        padding: 12px 50px;
+
+    }
+
+
+
+    .pophead .poplft h3 {
+
+        font-size: 30px;
+
+
+
+    }
+
+
+
+    /*    .slickarea {
+
+    padding: 48px 15px 85px;
+
+}*/
+
+    .banrtext {
+
+        padding-left: 60px;
+
+    }
+
+
+
+    .avatar-upload {
+
+        position: relative;
+
+        margin: 58px 0px 15px;
+
+    }
+
+
+
+    .my_profile {
+
+        padding: 30px 0px 70px;
+
+    }
+
+
+
+    .pop_filter .bank_drop .select span {
+
+        font-size: 16px;
+
+    }
+
+
+
+    .pay_inner .form-group .form-control {
+
+        font-size: 16px;
+
+    }
+
+
+
+    .btn_seller a {
+
+        padding: 12px 39px 6px;
+
+    }
+
+
+
+    /*30-11-19*/
+
+
+
+    .msgtextarea input {
+
+        width: 82%;
+
+    }
+
+
+
+    .post_filter {
+
+        margin-right: 26px;
+
+    }
+
+
+
+    .post_last {
+
+        margin-right: 0px;
+
+    }
+
+
+
+    .pop_filter .bank_drop .dropdown-menu li {
+
+        font-size: 16px;
+
+    }
+
+
+
+    .subbase_img h4 {
+
+        font-size: 100px;
+
+        line-height: 130px;
+
+    }
+
+
+
+    .subbase_left h2 {
+
+        font-size: 40px;
+
+        line-height: 50px;
+
+    }
+
+
+
+    /*02-12-19*/
+
+    .insert_input .avatar-edit input + label:after {
+
+        top: -94px;
+
+        right: -25px;
+
+    }
+
+
+
+    .insert_input .avatar-edit input + label {
+
+        position: absolute;
+
+        top: -35px;
+
+        right: -2px
+
+    }
+
+
+
+    .insert_input .avatar-edit input + label:after {
+
+        top: 11px;
+
+        right: -10px;
+
+    }
+
+
+
+    .chatboxs_all1 {
+
+        border-bottom: 1px solid #f0f0f0;
+
+        padding: 10px 5px;
+
+        cursor: pointer;
+
+    }
+
+
+
+    .msgtextarea a.imggreen {
+
+        background-color: #459316;
+
+        /*padding: 11px;*/
+
+        right: -4px;
+
+    }
+
+
+
+    /*depu*/
+
+    /*    web location start*/
+
+    .location_full {
+
+        margin: 35px 0px;
+
+    }
+
+
+
+    .location_inner .form-group .form-control {
+
+        padding: 3px 23px 3px 6px;
+
+        min-width: 365px;
+
+
+
+    }
+
+
+
+    .location_inner span {
+
+        padding: 6px 10px;
+
+        padding-bottom: 10px;
+
+
+
+    }
+
+
+
+    .location_inner .loca_btn button {
+
+        padding: 9px 12px;
+
+        padding-top: 6px;
+
+    }
+
+
+
+    .web_city ul li {
+
+        margin-right: 15px;
+
+        margin-bottom: 27px;
+
+    }
+
+
+
+    .web_location {
+
+        padding: 35px 0px 50px;
+
+
+
+    }
+
+
+
+    .web_city ul li a {
+
+        font-size: 14px;
+
+        line-height: 21px;
+
+        ;
+
+        padding: 2px 11px;
+
+    }
+
+
+
+    /*me*/
+
+    .manage_inner .rims_inner {
+
+        width: 100%;
+
+    }
+
+
+
+    .manage_inner .ellipis {
+
+        top: 294px;
+
+    }
+
+
+
+    .rims_inner span {
+
+        width: 100%;
+
+    }
+
+
+
+    .rims_img {
+
+        width: 100%;
+
+        height: 275px;
+
+    }
+
+
+
+    .manage_inner .manage_heading {
+
+        padding-bottom: 30px;
+
+    }
+
+
+
+    .manage_inner {
+
+        padding: 20px 45px 0px 45px;
+
+    }
+
+
+
+    .ellipes_click {
+
+        top: initial;
+
+        bottom: 96px;
+
+    }
+
+
+
+
+
+    .publish_inner .col-md-2 {
+
+        min-width: 100%;
+
+        text-align: center;
+
+    }
+
+
+
+    .publish_heading2 {
+
+
+
+        display: none;
+
+    }
+
+
+
+    .publ_left {
+
+
+
+        margin: 0 auto;
+
+    }
+
+
+
+    .publ123 {
+
+        display: block;
+
+    }
+
+
+
+    .publish_inner {
+
+        padding: 25px 0px 0px;
+
+    }
+
+
+
+    .pub_l_all {
+
+
+
+        padding: 30px 0px;
+
+    }
+
+
+
+    .publish_inner .col-md-10 {
+
+        min-width: 100%;
+
+        text-align: center;
+
+    }
+
+
+
+    .publish_inner12 .cardlisto {
+
+        width: 167px;
+
+        margin-right: 6px;
+
+        margin-bottom: 17px;
+
+    }
+
+
+
+    .publish_inner12 .cardimg1 {
+
+        width: 165px;
+
+        height: 175px;
+
+    }
+
+
+
+    .publish_inner12 {
+
+        padding: 20px 0 50px 0;
+
+    }
+
+    /*03-12*/
+
+    .modal-dialog {
+
+    width: 767px;
+
+}
+
+.modalyimg {
+
+    left: 304px;
+
+}
+
+.aboutouso h2{
+
+        padding: 15px 0px 15px;
+
+}
+
+.contact_inner h2 {
+
+    font-size: 36px;
+
+    line-height: 42px;
+
+}
+
+/*.cardimg1 a {
+
+     width: 100% !important; 
+
+     height: 220px !important; 
+
+}*/
+.post_filter2{
+    margin-right: 0px;
+    margin-bottom: 8px;
+}
+.post_filter1{
+    margin-bottom: 8px;
+}
+.post_filter{
+    width: 48%;
+}
+.select{
+    font-size: 16px;
+}
+.subpaypal{
+    padding:0 10%;
+}
+
+}
+
+
+
+@media(max-width:767px) {
+
+    .header .hamburger {
+
+        display: block;
+
+    }
+
+
+
+    .navyitm {
+
+        display: none;
+
+    }
+
+
+
+    .navbar-right ul {
+
+        display: inline-block;
+
+    }
+
+
+
+    .collapse:not(.show) {
+
+        display: initial;
+
+        margin-right: 21px;
+
+    }
+
+
+
+    .my_acc_drop {
+
+        right: -4px;
+
+    }
+
+
+
+
+
+    .footleft {
+
+        width: 50%;
+
+    }
+
+
+
+    .footright {
+
+        width: 100%;
+
+        padding-left: 0px;
+
+    }
+
+
+
+    .footmiddle {
+
+        width: 100%;
+
+        padding: 15px 0px 5px;
+
+        text-align: left;
+
+    }
+
+
+
+    .footmiddle ul li {
+
+        padding-bottom: 8px;
+
+        display: block;
+
+    }
+
+
+
+    .footmiddle ul {
+
+        display: inline-block;
+
+
+
+        padding-left: 0px;
+
+    }
+
+
+
+    .footer {
+
+        background-color: #1a1a1a;
+
+        padding: 25px 0 30px 0;
+
+        color: #fff;
+
+    }
+
+
+
+    .bannerarea {
+
+        padding: 95px 0;
+
+    }
+
+
+
+    .banrtext h3 {
+
+        font-size: 22px;
+
+        line-height: 30px;
+
+    }
+
+
+
+    .allbtn a {
+
+        padding: 9px 32px;
+
+    }
+
+
+
+    .banrtext {
+
+        padding-left: 40px;
+
+    }
+
+
+
+    .profile_inner ul li {
+
+        margin-right: 30px;
+
+    }
+
+
+
+    .avatar-upload {
+
+        margin: 35px auto 20px;
+
+        max-width: 138px;
+
+    }
+
+
+
+    .full_form {
+
+        padding: 10px 0px 50px;
+
+    }
+
+
+
+    .prof_form .form_del .form-group .form-control {
+
+        font-size: 16px;
+
+    }
+
+
+
+    .contact_right {
+
+        display: none;
+
+    }
+
+
+
+    .contact_inner {
+
+        padding: 0 20px;
+
+    }
+
+
+
+    .contact {
+
+        padding: 30px 0px 60px;
+
+    }
+
+
+
+    .pay_inner .form-group .form-control {
+
+        font-size: 16px;
+
+    }
+
+
+
+    .pay_inner .form-group {
+
+        padding-bottom: 15px;
+
+    }
+
+
+
+    .pay_inner h2 {
+
+        font-size: 26px;
+
+        line-height: 28px;
+
+    }
+
+
+
+    .pay_inner .form-group {
+
+        padding-bottom: 10px;
+
+    }
+
+
+
+    .pay_inner .already_acc {
+
+        text-align: center;
+
+        padding-top: 20px;
+
+    }
+
+
+
+    .pay_inner {
+
+       
+
+        height: auto;
+
+    }
+
+
+
+    .bank_dlt {
+
+        border: 1px solid #707070;
+
+        height: auto
+
+    }
+
+
+
+    .contact_uss {
+
+        height: auto;
+
+    }
+
+
+
+    .login_inner {
+
+        height: auto;
+
+    }
+
+
+
+    .login2 {
+
+        height: auto;
+
+    }
+
+
+
+    .forget_inner {
+
+        height: auto;
+
+    }
+
+
+
+    .sign_inner {
+
+        height: auto;
+
+    }
+
+
+
+    /*new*/
+
+    .btn_seller a {
+
+        padding: 12px 39px 6px;
+
+    }
+
+
+
+    .proryt_text {
+
+        margin-top: 20px;
+
+    }
+
+
+
+    /*30-11-19*/
+
+    .set > a {
+
+        font-size: 22px;
+
+    }
+
+
+
+    .faqsec h2 {
+
+        font-size: 30px;
+
+        line-height: 40px;
+
+        padding-left: 12px;
+
+    }
+
+
+
+    .post_filter {
+
+        width: 100%;
+
+    }
+
+
+
+    .subbase_lefto {
+
+        margin-top: 30px;
+
+    }
+
+
+
+    .subbase_left {
+
+        padding-top: 26px;
+
+    }
+
+
+
+    .subsAllPlan {
+
+        padding: 35px 0px 100px;
+
+    }
+
+
+
+    .subbase_img h4 {
+
+        font-size: 78px;
+
+        line-height: 76px;
+
+    }
+
+
+
+    .subbase_left p {
+
+        padding: 30px 66px 30px;
+
+    }
+
+
+
+    /*2-12-19*/
+
+    .insert_input .avatar-edit input + label {
+
+        top: -20px;
+
+    }
+
+
+
+    .mychatAll .noright {
+
+        padding-right: 15px;
+
+    }
+
+
+
+    .mychatryt .fullmsg {
+
+        margin-top: 20px;
+
+    }
+
+
+
+    .chatmainAll {
+
+        padding: 30px 0;
+
+    }
+
+
+
+    .chatinners p {
+
+        font-size: 20px;
+
+    }
+
+
+
+    /*deepu*/
+
+    /*    web location media start*/
+
+    .location_inner .loca_btn button {
+
+        padding: 8px 12px;
+
+        padding-top: 7px;
+
+        font-size: 16px;
+
+    }
+
+
+
+    .location_inner .form-group .form-control {
+
+
+
+        min-width: 299px;
+
+    }
+
+
+
+    .location_full {
+
+        margin: 25px 0px;
+
+    }
+
+
+
+    .web_city ul li a {
+
+        font-size: 13px;
+
+        line-height: 17px;
+
+        padding: 3px 11px;
+
+    }
+
+
+
+    .web_location {
+
+        padding: 30px 0px 35px;
+
+    }
+
+
+
+    .Basicpro {
+
+        padding-top: 7px;
+
+    }
+
+
+
+    .pophead {
+
+        margin-bottom: 9px;
+
+    }
+
+
+
+    .slickarea {
+
+        padding: 20px 15px 50px;
+
+    }
+
+
+
+    .pop_btn a {
+
+        padding: 11px 46px;
+
+
+
+    }
+
+
+
+    .pop_inner h2 {
+
+        padding: 22px 0px;
+
+        font-size: 32px;
+
+        line-height: 30px;
+
+    }
+
+
+
+    .pop_filter .dropdown {
+
+        width: 165px;
+
+    }
+
+
+
+    .pop_btn a {
+
+        padding: 11px 52px;
+
+    }
+
+
+
+    .pop_inner ul li:nth-child(5) {
+
+        margin-top: 16px;
+
+    }
+
+
+
+    .cardlisto {
+
+        width: 42.7%;
+
+    }
+
+    
+
+
+
+  
+
+    .rims_inner1 {
+
+        margin-top: 30px;
+
+    }
+
+
+
+    .for_pass {
+
+        padding: 86px 0px 86px;
+
+    }
+
+    .message-content .message-box .message-box__item .box-text {
+
+max-width: 56%;
+
+}
+
+/*03-012*/
+
+.modalyimg {
+
+    left: 198px;
+
+}
+.anchorcard {
+    margin-right: 80px;
+    /* display: inline-block; */
+}
+}
+
+.modal-dialog {
+
+    width: 560px;
+
+    }
+
+    .modalytexto h3 {
+
+    font-size: 25px;
+
+    line-height: 34px;
+
+}
+
+.about {
+
+    padding: 20px 0px;
+
+}
+
+.slickslider:hover {
+
+    box-shadow: none;
+
+    -webkit-transition: none;
+
+    -webkit-transform: none;
+
+    -ms-transition: none;
+
+    -ms-transform: none;
+
+    -moz-transition: none;
+
+    -moz-transform: none;
+
+    transition: initial;
+
+    transform: none;
+
+    z-index: 9;
+
+}
+.post_filter{
+    margin-bottom: 8px;
+}
+.post_last {
+    margin-bottom: 0px;
+}
+.filter_header .post_filter{
+    width: 164px;
+}
+.pop0_btn button {
+    padding: 9px 55px;
+}
+.op_message h2 {
+    font-size: 27px;
+}
+.op_message p {
+    font-size: 20px;
+}
+.op_inner {
+    padding: 33px;
+}
+.subpaypal{
+    padding:0 20%;
+}
+	
+	
+}
+
+
+
+
+
+@media(max-width:560px) {
+
+    .navbar-header {
+
+        display: block;
+
+    }
+.cardbod_custom p{
+	font-size:50px;
+}
+
+
+    .mainmargin {
+
+        margin-top: 110px;
+
+    }
+
+
+
+
+    .rightNav {
+
+        margin-left: 21px;
+
+        margin-top: 10px;
+
+    }
+
+
+
+    .my_acc_drop {
+
+        left: -14px;
+
+    }
+
+
+
+    .tringl:before {
+
+        right: initial;
+
+        left: 26px;
+
+    }
+
+
+
+    .footmiddle ul {
+
+        padding-right: 6px;
+
+    }
+
+
+
+    .footmiddle ul li a {
+
+        font-size: 10px;
+
+    }
+
+
+
+    .bannerarea {
+
+        padding: 55px 0;
+
+    }
+
+
+
+    .banrtext h3 {
+
+        font-size: 16px;
+
+        line-height: 23px;
+
+        padding-bottom: 5px;
+
+    }
+
+
+
+    .allbtn a {
+
+        padding: 9px 15px;
+
+        font-size: 16px;
+
+    }
+
+
+
+    .pophead .poplft h3 {
+
+        font-size: 25px;
+
+    }
+
+
+
+    .peronal_dtl {
+
+        overflow-x: scroll;
+
+    }
+
+
+
+    .peronal_dtl ul {
+
+        min-width: 448px;
+
+        padding-bottom: 20px;
+
+    }
+
+
+
+    .profile_inner {
+
+        padding: 20px;
+
+    }
+
+
+
+    .contact_inner {
+
+        padding: 0 10px;
+
+    }
+
+
+
+    .pay_inner .form-group {
+
+        padding-bottom: 10px;
+
+    }
+
+
+
+    .pay_inner h2 {
+
+        font-size: 24px;
+
+        line-height: 26px;
+
+    }
+
+
+
+    .pay_inner {
+
+        width: 370px;
+
+    }
+
+
+
+    .bank_dlt {
+
+        height: auto;
+
+    }
+
+
+
+    .pay_inner .form-group {
+
+        padding-bottom: 5px;
+
+    }
+
+
+
+    .sign_inner {
+
+        width: 355px;
+
+        height: auto;
+
+    }
+
+
+
+    .contact_uss {
+
+        height: 330px;
+
+        width: auto;
+
+    }
+
+
+
+    .account {
+
+        padding: 18px 0px 15px;
+
+    }
+
+
+
+    .payment_mode .account h5 {
+
+        font-size: 27px;
+
+        line-height: 30px;
+
+    }
+
+
+
+    .login_inner {
+
+        height: auto;
+
+    }
+
+
+
+    .login2 {
+
+        height: auto;
+
+    }
+
+
+
+    .forget_inner {
+
+        height: auto;
+
+    }
+
+
+
+    .pay_inner .expire_date121 {
+
+    width: 29%;
+    margin-left: 21px;
+
+    }
+
+
+
+    .pay_inner .cvv {
+
+    width: 29%;
+    margin-left: 20px;
+
+    }
+
+
+
+    .debait_card [type="radio"]:checked + label,
+
+    [type="radio"]:not(:checked) + label {
+
+        margin-right: 22px;
+
+
+
+    }
+
+
+
+    /*new*/
+
+    .proryt_text h3 {
+
+        font-size: 30px;
+
+        line-height: 38px;
+
+    }
+
+
+
+    .proryt_text p.euto {
+
+        font-size: 33px;
+
+        line-height: 38px;
+
+    }
+
+
+
+    p.proryto_txt {
+
+        padding-right: 20px;
+
+    }
+
+
+
+    .btn_seller a {
+
+        padding: 12px 39px 6px;
+
+        width: 100%;
+
+    }
+
+
+
+    /*30-11-19*/
+
+    .mainmargin1 {
+
+        margin-top: 63px;
+
+    }
+
+
+
+   .content p {
+
+    line-height: 23px;
+
+    font-size: 14px;
+
+}
+
+
+
+    .set > a {
+
+        font-size: 16px;
+
+        line-height: 25px
+
+    }
+
+
+
+    .set > a i {
+
+        font-size: 21px;
+
+    }
+
+
+
+    .all_img_v .post_img {
+
+        margin-right: 7px;
+
+    }
+
+
+
+    .post_ad .post_card span label {
+
+        margin-bottom: 5px;
+
+    }
+
+
+
+    .subbase_left {
+
+        padding-top: 18px;
+
+    }
+
+
+
+    .subbase_img h4 {
+
+        font-size: 68px;
+
+        line-height: 54px;
+
+    }
+
+
+
+    .subbase_left p {
+
+        padding: 27px 47px 16px;
+
+    }
+
+
+
+    .subscriptionplan .subso h3 {
+
+        font-size: 26px;
+
+        line-height: 30px;
+
+    }
+
+
+
+    /*2-12-19*/
+
+    .msgtextarea input {
+
+        width: 79%;
+
+    }
+
+
+
+
+    .msgtextarea a.imggreen {
+
+        top: -1px;
+
+        height: 40px;
+
+        width: 40px;
+
+    }
+
+
+
+    .tringl1:before {
+
+        left: -18px;
+
+    }
+
+
+
+    .tringl2:before {
+
+        top: 5px;
+
+        right: -17px;
+
+        left: initial;
+
+    }
+
+
+
+    /*deepu*/
+
+    /*    web location media start*/
+
+    .location_inner span {
+
+        padding: 6px 5px;
+
+        padding-bottom: 10px;
+
+    }
+
+
+
+    .location_inner .loca_btn button {
+
+        padding: 8px 6px;
+
+        padding-top: 8px;
+
+        font-size: 14px;
+
+        padding-bottom: 7px;
+
+    }
+
+
+
+    .location_inner .form-group .form-control {
+
+        min-width: 217px;
+
+    }
+
+
+
+    .web_city ul li {
+
+        margin-right: 7px;
+
+        margin-bottom: 14px;
+
+    }
+
+
+
+    .slickarea {
+
+        padding: 10px 15px 40px;
+
+    }
+
+
+
+    .slickarea .slick-slide {
+
+        margin: 5px 20px 15px 0;
+
+    }
+
+
+
+    .productlist {
+
+        padding: 5px 0px 50px 8px;
+
+
+
+    }
+
+
+
+
+
+    .pop_btn a {
+
+        padding: 11px 66px;
+
+    }
+
+
+
+    .pop_filter .dropdown {
+
+        width: 190px;
+
+    }
+
+
+
+    .pop_inner ul li:nth-child(5) {
+
+        margin-top: 5px;
+
+    }
+
+
+
+    .pop_inner ul li:nth-child(4) {
+
+        margin-top: 5px;
+
+    }
+
+
+
+    /*    me*/
+
+    .manage {
+
+        padding: 25px 0 67px;
+
+    }
+
+
+
+    .manage_inner {
+
+        padding: 20px 15px 0px 15px;
+
+    }
+
+
+
+    .message-content .message-box .message-box__item .box-text {
+
+max-width: 70%;
+
+}
+
+/*03-12*/
+
+.modalyimg {
+
+    width: 145px;
+
+    height: 145px;
+
+}
+
+.modal-dialog {
+
+    width: 412px;
+
+}
+
+.modalyimg {
+
+    left: 132px;
+
+    top: -71px;
+
+}
+
+.modaly h3 {
+
+    font-size: 26px;
+
+    line-height: 26px;
+
+}
+
+.modaly h4 {
+
+    font-size: 22px;
+
+}
+
+.modal .modal-content1 {
+
+    padding: 35px 25px 45px 25px;
+
+}
+
+.star-rating [type="radio"]:not(:checked) + label {
+
+    padding-bottom: 17px;
+
+    }
+
+    .box-text2 p {
+
+    font-size: 17px;
+
+    padding-right: 10px;
+
+}
+
+.message-box__item .box-text2 {
+
+    padding: 9px 7px 9px 8px;
+
+    max-width: 69%;
+
+}
+
+.aboutouso h2 {
+
+    font-size: 32px;
+
+    line-height: 37px;
+
+}
+
+.abou_inner p {
+
+    font-size: 20px;
+
+    line-height: 32px;
+
+}
+
+
+
+.filter_header .post_filter{
+    width: 180px;
+}
+
+.pop0_btn button {
+    padding: 9px 63px;
+}
+
+.publish_inner12 .cardimg1 {
+    min-width: 100%;
+    height: 175px;
+}
+
+.publish_inner12 .cardlisto {
+    min-width: 100%;
+    margin-right: 6px;
+    margin-bottom: 17px;
+}
+
+.publish_inner12 .anchorcard{
+	width:100% !important;
+}
+
+.my_acc_drop {
+    right: -4px;
+}
+}
+
+
+@media(max-width:414px) {
+	
+	.publish_inner12 .anchorcard{
+	width:100% !important;
+}
+
+
+    .tringl:before {
+
+        left: 58px;
+
+    }
+
+
+
+    .my_acc_drop {
+
+        left: -45px;
+
+    }
+
+
+
+    .footleft {
+
+        width: 100%;
+
+    }
+
+
+
+    .footmiddle ul {
+
+        width: 100%;
+
+    }
+
+
+
+    .footmiddle ul li {
+
+        padding-bottom: 2px;
+
+
+
+    }
+
+
+
+    .btmright a {
+
+        margin-right: 10px;
+
+    }
+
+
+
+    .banrtext h3 {
+
+        font-size: 15px;
+
+        line-height: 21px;
+
+        padding-bottom: 3px;
+
+    }
+
+
+
+    .pophead .poplft h3 {
+
+        font-size: 16px;
+
+        line-height: 47px;
+
+    }
+
+
+
+    .pay_inner {
+
+        width: 280px;
+
+        height: 540px;
+
+    }
+
+
+
+    .contact_uss {
+
+        height: auto;
+
+        width: auto;
+
+    }
+
+
+
+    .sign_inner {
+
+        border: none;
+
+    }
+
+
+
+    .login_inner {
+
+        height: 400px;
+
+    }
+
+
+
+    .debait_card [type="radio"]:checked + label,
+
+    [type="radio"]:not(:checked) + label {
+
+        margin-bottom: 10px;
+
+
+
+    }
+
+
+
+    .pay_inner .expire_date121 {
+
+    width: 29%;
+    margin-left: 14px;
+    }
+    .pay_inner .cvv {
+    width: 29%;
+    margin-left: 15px;
+}
+
+
+
+    .pay_inner .form-group .form-control {
+
+        font-size: 14px;
+
+    }
+
+
+
+    .pay_inner {
+
+        height: auto;
+
+    }
+
+
+
+    .bank_dlt {
+
+        height: auto;
+
+    }
+
+
+
+    .forget_inner {
+
+        height: auto;
+
+    }
+
+
+
+    .login2 {
+
+        height: auto;
+
+    }
+
+
+
+    .sign_inner {
+
+        height: auto;
+
+    }
+
+
+
+    /*30-11-19*/
+
+    .all_img_v .post_img {
+
+        margin-right: 47px;
+
+        margin-bottom: 10px;
+
+    }
+
+
+
+    .subbase_left h2 {
+
+        font-size: 32px;
+
+        line-height: 38px;
+
+    }
+
+
+
+    /*02-19*/
+
+    .rytchattop2 .chatinners p {
+
+        font-size: 15px;
+
+    }
+
+
+
+    .message-content .message-box .message-box__item .box-text {
+
+        padding: 9px 6px;
+
+        max-width: 63%;
+
+    }
+
+
+
+    .tringl1:before {
+
+        left: -18px;
+
+    }
+
+
+
+    .tringl2:before {
+
+        top: 5px;
+
+        right: -17px;
+
+        left: initial;
+
+    }
+
+
+
+    .msgtextarea a.imggreen {
+
+        right: -15px;
+
+    }
+
+
+
+    /*deepu*/
+
+    /*    new media*/
+
+    .pophead {
+
+        margin-bottom: 0px;
+
+    }
+
+
+
+    .Basicpro {
+
+        padding-top: 0px;
+
+    }
+
+
+
+    .pop_inner h2 {
+
+        padding: 20px 0px;
+
+        font-size: 22px;
+
+        line-height: 25px;
+
+    }
+
+
+
+    .pop_filter .dropdown {
+
+        width: 220px;
+
+    }
+
+
+
+    .pop_btn a {
+
+        padding: 11px 80px;
+
+    }
+
+
+
+    .cardlisto {
+
+           width: 72.7%;
+
+    }
+
+
+
+/*    .cardimg1 {
+
+        width: 218px;
+
+        height: 225px;
+
+    }*/
+
+
+
+    .publish_inner12 .cardlisto {
+
+        width: 220px;
+
+    }
+
+
+
+    .publish_inner12 .cardimg1 {
+
+        width: 100%;
+
+        height: 205px;
+
+    }
+
+
+
+    .publ123 {
+
+        padding: 0;
+    margin-top: 116px;
+        text-align: center;
+
+    }
+
+    /*.3-12*/
+
+    .modal-dialog {
+
+    width: 315px;
+
+}
+
+.modalyimg {
+
+    left: 89px;
+
+    }
+
+    .modaly p {
+
+    font-size: 16px;
+
+    line-height: 18px;
+
+}
+
+.modaly h3 {
+
+    font-size: 24px;
+
+    }
+
+    .modaly a {
+
+    font-size: 16px;
+
+}
+
+.modalyimg1 {
+
+    padding-bottom: 22px;
+
+}
+
+.modal .modal-content1 {
+
+    padding: 25px 25px;
+
+}
+
+.modaly1 p {
+
+    font-size: 15px;
+
+}
+
+.modalytexto h3 {
+
+    font-size: 23px;
+
+    line-height: 30px;
+
+}
+
+.message-box__item .box-text2{
+
+        margin: 6px 16px;
+
+}
+
+.box-text2 .time {
+
+    min-width: 60px;
+
+    font-size: 12px;
+
+}
+
+.box-text2 p {
+
+    font-size: 14px;
+
+    padding-right: 4px;
+
+}
+
+.abou_inner p {
+
+    font-size: 18px;
+
+    line-height: 30px;
+
+}
+
+.aboutouso h2 {
+
+    padding: 7px 0px 7px;
+
+}
+
+.abou_inner {
+
+    padding-top: 20px;
+
+}
+
+.navbar-expand-sm .navbar-nav .nav-link {
+
+    margin: 0px 10px;
+
+}
+
+.abou_inner p {
+
+    font-size: 16px;
+
+    line-height: 26px;
+
+}
+.select{
+    font-size: 14px;
+}
+.op_message h2 {
+    font-size: 22px;
+}
+.op_message p {
+    font-size: 16px;
+}
+}
+
+
+
+
+
+@media(max-width:320px) {}
+

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.525" height="12.37" viewBox="0 0 13.525 12.37">
+    <defs>
+        <style>
+            .cls-1{fill:rgba(255,255,255,.67);stroke:#fff;stroke-linecap:square;stroke-miterlimit:10;stroke-width:.5px}
+        </style>
+    </defs>
+    <g id="heart" transform="translate(.25 .481)">
+        <path id="Path_11" d="M13.982 7.041a3.551 3.551 0 0 0-5.472.549 3.552 3.552 0 1 0-5.472 4.474l5.472 5.472 5.472-5.472a3.552 3.552 0 0 0 0-5.023z" class="cls-1" data-name="Path 11" transform="translate(-1.998 -6.001)"/>
+    </g>
+</svg>

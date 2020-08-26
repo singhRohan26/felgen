@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+    <defs>
+        <style>
+            .cls-1{fill:#fff;stroke:#707070}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:none}.cls-3,.cls-4{fill-rule:evenodd}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Rectangle_26" d="M0 0h45v45H0z" class="cls-1" data-name="Rectangle 26" transform="translate(0 -.085)"/>
+        </clipPath>
+    </defs>
+    <g id="Mask_Group_4" class="cls-2" data-name="Mask Group 4" transform="translate(0 .085)">
+        <g id="Icons">
+            <g id="Outlined">
+                <g id="Action">
+                    <g id="Outlined-_-Action-_-euro_symbol" data-name="Outlined-/-Action-/-euro_symbol">
+                        <g id="Group_811" data-name="Group 811">
+                            <path id="Path" d="M0 0h45.012v45.012H0z" class="cls-3"/>
+                            <path id="_-Icon-Color" d="M26.256 32.82a12.153 12.153 0 0 1-10.8-6.564h10.8v-3.751H14.215a11.8 11.8 0 0 1 0-3.751h12.041V15h-10.8a12.167 12.167 0 0 1 18.736-3.62l3.32-3.32A16.855 16.855 0 0 0 10.352 15H3.75v3.751h5.739a15.685 15.685 0 0 0 0 3.751H3.75v3.751h6.6A16.855 16.855 0 0 0 37.509 33.2l-3.338-3.32a12.014 12.014 0 0 1-7.915 2.94z" class="cls-4" data-name="🔹-Icon-Color" transform="translate(1.877 1.877)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
